@@ -1,4 +1,4 @@
-# rio-blogger-app-ui
+# rio-blog-builder-UI and Site layout
 This will be the repository for the Rio blogger UI demo, Wireframes and Proposals to stakeholders
 
 OVERVIEW
